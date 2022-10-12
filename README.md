@@ -1,6 +1,6 @@
 # Notifications Page
 
-[Live Demo](https://notification-toggle-o.netlify.app/)
+[Live Demo](https://notification-page-o.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
